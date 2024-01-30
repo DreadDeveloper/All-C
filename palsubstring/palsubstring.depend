@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628958910 source:c:\users\kumar\documents\c projects\palsubstring\main.c
+	<stdio.h>
+	<string.h>
+

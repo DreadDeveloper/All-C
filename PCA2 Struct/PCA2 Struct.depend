@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626893252 source:c:\users\kumar\documents\c projects\pca2 struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
