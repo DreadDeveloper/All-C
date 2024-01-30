@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639367218 source:c:\users\kumar\documents\c projects\singlylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

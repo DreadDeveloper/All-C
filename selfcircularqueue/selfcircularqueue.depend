@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640441474 source:c:\users\kumar\documents\c projects\selfcircularqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
