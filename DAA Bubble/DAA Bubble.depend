@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646569414 source:c:\users\kumar\documents\c projects\daa bubble\main.c
+	<stdio.h>
+	<stdlib.h>
+

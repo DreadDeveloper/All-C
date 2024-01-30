@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641463099 source:c:\users\kumar\documents\c projects\avl tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
